@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[App Demo Link](screenshots/walkthrough.gif)
+![App Demo Link](screenshots/walkthrough.gif)
 
 GIF created with [Kap](https://getkap.co/).
 
