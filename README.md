@@ -28,19 +28,20 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-  * [X] When clicked into the Movie Details Page, the user can access the YouTube trailer in the same activity
+  * [X] When clicked into the Movie Details Page, the user can access the YouTube video in the same activity
+  * [X] The YouTube video autoplays when clicked into the Movie Details Page in full-screen mode
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/DnTpnGM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/BfDVElo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Overall, this project was extremely exciting and invigorating to work on as it was my first time coding an Android application. One challenge I faced was integrating the YouTube API into the Details Activity. Originally, I had used a container which wrapped the entire movie description and added a OnClickListener to launch the Details Activity when clicked. However, this tampered with the landscape view and continuously crashed the app. Instead, I removed the container and made the poster image clickable. In the future, if given more time, I would further explore how I could make this feature more user-friendly and make the entire row of movie and movie description clickable to take the user to its respective page.
 
 ## Open-source libraries used
 
