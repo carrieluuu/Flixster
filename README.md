@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![App Demo Link](flixter-demo.gif)
+![App Demo Link](app/flixter-demo.gif)
 
 GIF created with [Ezgif](https://ezgif.com/video-to-gif).
 
