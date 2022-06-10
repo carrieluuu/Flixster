@@ -33,9 +33,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://imgur.com/3agE7FE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+![App Demo Link](flixter-demo.gif)
+
+GIF created with [Ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
@@ -48,7 +49,7 @@ Overall, this project was extremely exciting and invigorating to work on as it w
 
 ## License
 
-    Copyright [2022] [name of copyright owner]
+    Copyright [2022] [Carrie Lu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
